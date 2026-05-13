@@ -6,6 +6,7 @@ Rai'iy - رأيي is an end-to-end NLP pipeline and analytics dashboard built sp
 
 Features
 -  Arabic Sentiment Analysis — Fine-tuned CamelBERT model (trained and tested) classifying reviews as Positive, Negative, or Mixed with confidence scores
+-  link of the model:https://drive.google.com/drive/folders/1hSKCgdaZt7arOds0c5fWN9bURN9JzcLF?usp=drive_link
 -  Automatic Topic Discovery — BERTopic clusters reviews into meaningful themes without manual labeling
 -  AI Business Recommendations — We integrated Groq-powered LLaMA 3.3 (LLM) to generate per review insights and strategic overall recommendations in Arabic. 
 - Dashboard — Streamlit app with KPI metrics, topic distribution charts, negative topic heatmaps, and a topic explorer
